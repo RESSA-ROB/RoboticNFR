@@ -1,4 +1,4 @@
-# Steps to reproduce the experiments
+# Steps to Reproduce the Experiments
 
 ### 1. Install the iRobot® Create® 3 Simulator along with all the required prerequisite ROS 2 packages. Detailed instructions for doing so can be found in the readme of the simulator’s Github repository: https://github.com/iRobotEducation/create3_sim
 
